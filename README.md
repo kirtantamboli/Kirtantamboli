@@ -12,16 +12,16 @@
   Let's Connect and have a Chat!💬
 </h1>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/mahipal-singh-jhala-94184424b/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="kirtantamboli" ></a>&nbsp;&nbsp;
-    <a href="mailto:kirtantamboli@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kirtan-tamboli-77508328a/"><img height="30" src="https://i.pinimg.com/originals/ed/9c/d7/ed9cd7adaf39fa263cf6fb5552f278ed.png" alt="kirtantamboli" ></a>&nbsp;&nbsp;
+    <a href="mailto:kirtantamboli38@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
     </p>
     <p>
-    <a href="https://stackoverflow.com/users/24579299/mahipal-singh-jhala" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="kirtantamboli" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
-    <a href="https://www.codechef.com/users/mahipalsingh07" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="mahipalsingh07" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https:https://stackoverflow.com/users/27174262/kirtan-tamboli?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="kirtantamboli" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+    <a href="https://www.codechef.com/users/kirtantamboli" target="_blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="mahipalsingh07" height="30"style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
     <a href="https://github.com/kirtantamboli" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="https://github.com/kirtantamboli" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
     </a>
-     <a href="https://www.geeksforgeeks.org/user/mahipalsingy72v/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
+     <a href="https://www.geeksforgeeks.org/user/kirtantajoov/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" alt="akash2061" height="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" /></a>
      </p>
 </div>
 <br/>
